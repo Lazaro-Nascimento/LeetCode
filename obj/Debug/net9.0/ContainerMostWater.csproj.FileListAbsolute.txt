@@ -1,0 +1,15 @@
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\obj\Debug\net9.0\ContainerMostWater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\obj\Debug\net9.0\ContainerMostWater.AssemblyInfoInputs.cache
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\obj\Debug\net9.0\ContainerMostWater.AssemblyInfo.cs
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\obj\Debug\net9.0\ContainerMostWater.csproj.CoreCompileInputs.cache
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\obj\Debug\net9.0\ContainerMostWater.sourcelink.json
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\bin\Debug\net9.0\ContainerMostWater.exe
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\bin\Debug\net9.0\ContainerMostWater.deps.json
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\bin\Debug\net9.0\ContainerMostWater.runtimeconfig.json
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\bin\Debug\net9.0\ContainerMostWater.dll
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\bin\Debug\net9.0\ContainerMostWater.pdb
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\obj\Debug\net9.0\ContainerMostWater.dll
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\obj\Debug\net9.0\refint\ContainerMostWater.dll
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\obj\Debug\net9.0\ContainerMostWater.pdb
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\obj\Debug\net9.0\ContainerMostWater.genruntimeconfig.cache
+C:\Users\lazar\ProjetosEmC#\LeetCode\ContainerMostWater\obj\Debug\net9.0\ref\ContainerMostWater.dll
