@@ -1,10 +1,5 @@
-﻿public class Program
-{
-    public static void Main()
-    {
-        System.Console.WriteLine(MaxArea([1,8,6,2,5,4,8,3,7]));
-    }
-    public static int MaxArea(int[] height) {
+﻿public class Solution {
+    public int MaxArea(int[] height) {
         int maior = 0;
         for(int i=0; i<height.Length; i++)
         {
