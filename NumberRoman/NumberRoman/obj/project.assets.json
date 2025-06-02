@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lazar\\ProjetosEmC#\\LeetCode\\ContainerMostWater\\ContainerMostWater.csproj",
-      "projectName": "ContainerMostWater",
-      "projectPath": "C:\\Users\\lazar\\ProjetosEmC#\\LeetCode\\ContainerMostWater\\ContainerMostWater.csproj",
+      "projectUniqueName": "C:\\Users\\lazar\\ProjetosEmC#\\LeetCode\\NumberRoman\\NumberRoman\\NumberRoman.csproj",
+      "projectName": "NumberRoman",
+      "projectPath": "C:\\Users\\lazar\\ProjetosEmC#\\LeetCode\\NumberRoman\\NumberRoman\\NumberRoman.csproj",
       "packagesPath": "C:\\Users\\lazar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lazar\\ProjetosEmC#\\LeetCode\\ContainerMostWater\\obj\\",
+      "outputPath": "C:\\Users\\lazar\\ProjetosEmC#\\LeetCode\\NumberRoman\\NumberRoman\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

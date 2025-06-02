@@ -1,0 +1,14 @@
+C:\Users\lazar\ProjetosEmC#\LeetCode\NumberRoman\NumberRoman\bin\Debug\net9.0\NumberRoman.exe
+C:\Users\lazar\ProjetosEmC#\LeetCode\NumberRoman\NumberRoman\bin\Debug\net9.0\NumberRoman.deps.json
+C:\Users\lazar\ProjetosEmC#\LeetCode\NumberRoman\NumberRoman\bin\Debug\net9.0\NumberRoman.runtimeconfig.json
+C:\Users\lazar\ProjetosEmC#\LeetCode\NumberRoman\NumberRoman\bin\Debug\net9.0\NumberRoman.dll
+C:\Users\lazar\ProjetosEmC#\LeetCode\NumberRoman\NumberRoman\bin\Debug\net9.0\NumberRoman.pdb
+C:\Users\lazar\ProjetosEmC#\LeetCode\NumberRoman\NumberRoman\obj\Debug\net9.0\NumberRoman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazar\ProjetosEmC#\LeetCode\NumberRoman\NumberRoman\obj\Debug\net9.0\NumberRoman.AssemblyInfoInputs.cache
+C:\Users\lazar\ProjetosEmC#\LeetCode\NumberRoman\NumberRoman\obj\Debug\net9.0\NumberRoman.AssemblyInfo.cs
+C:\Users\lazar\ProjetosEmC#\LeetCode\NumberRoman\NumberRoman\obj\Debug\net9.0\NumberRoman.csproj.CoreCompileInputs.cache
+C:\Users\lazar\ProjetosEmC#\LeetCode\NumberRoman\NumberRoman\obj\Debug\net9.0\NumberRoman.dll
+C:\Users\lazar\ProjetosEmC#\LeetCode\NumberRoman\NumberRoman\obj\Debug\net9.0\refint\NumberRoman.dll
+C:\Users\lazar\ProjetosEmC#\LeetCode\NumberRoman\NumberRoman\obj\Debug\net9.0\NumberRoman.pdb
+C:\Users\lazar\ProjetosEmC#\LeetCode\NumberRoman\NumberRoman\obj\Debug\net9.0\NumberRoman.genruntimeconfig.cache
+C:\Users\lazar\ProjetosEmC#\LeetCode\NumberRoman\NumberRoman\obj\Debug\net9.0\ref\NumberRoman.dll
