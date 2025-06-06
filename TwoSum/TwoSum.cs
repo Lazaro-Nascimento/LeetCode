@@ -2,19 +2,40 @@ public class Solution {
 
     public int[] TwoSum(int[] nums, int target)
     {
-        int[] result = new int[2];
+        int[] result = new int[nums.Length];
+        int[] output = new int[2];
+        int count = 0;
 
         for (int i = 0; i < nums.Length; i++)
         {
-            for (int j = i + 1; j < nums.Length; j++)
+            if((target - nums[i] > 0
+             && (target - nums[i]) + nums[i] == target)
+             || (target == 0))
             {
-                if (nums[i] + nums[j] == target)
+                result[count] = i;
+                count = count + 1;
+            }
+            else 
+                if((target - nums[i] <= 0
+                 && (target - nums[i]) + nums[i] == target))
                 {
-                    result[0] = i;
-                    result[1] = j;
+                    result[count] = i;
+                    count = count + 1;
+                }
+        }
+
+        for(int i = 0;i<=count;i++)
+        {
+            for(int j = i + 1;j<count;j++)
+            {
+                if(nums[result[i]] + nums[result[j]] == target)
+                {
+                    output[0] = result[i];
+                    output[1] = result[j];
+                    return output;
                 }
             }
         }
-        return result;
+        return output; //apenas para validar "Retorno em todos os campos"
     }
 }
